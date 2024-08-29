@@ -1,5 +1,7 @@
 # Skill Navigation Platform
 # Team name - Code Elite
+**Workflow Figma Design:**
+https://www.figma.com/proto/4RvMEGYzNGp2HscTwu0EyH/Skill-navigator?node-id=10-93&node-type=FRAME&t=GQUo4HUb5hQGy8vP-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=10%3A93
 
 **Introduction**
 A Skill Navigation Platform is an innovative tool designed to help professionals and learners identify, develop, and track their skills. It serves as a personalized guide, allowing users to explore career paths, assess their competencies, and gain access to resources that support continuous learning.
