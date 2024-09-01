@@ -17,25 +17,21 @@ The system will also enable tracking of course completion, evaluation scores, fe
 
 ****Key Functionalities:****
 
-**1. Data collection:**
-
-   Platform will collect the following details from the users:
-    - Name
-    - Email ID
-    - Degree
-    - Specialization
-    - Phone Number
-    - Certifications
-    - Internship Details
-    - Courses Completed
-    - LinkedIn Profile Link
-    - GitHub Profile Link
-    - Programming Languages Known
-  
-   They also have option upload the eCertificates:
-    - Completion certificates
-    - Internships completion certificate
-    - Courses completed 
+1. Data Collection:
+   - Name
+   - Email ID
+   - Degree
+   - Specialization
+   - Phone Number
+   - Certifications
+   - Internship Details
+   - Courses Completed
+   - LinkedIn Profile Link
+   - GitHub Profile Link
+   - Programming Languages Known
+   - Completion certificates
+   - Internships completion certificate
+   - Courses completed 
 
 **2. Batch Allocation:**
    
