@@ -2,6 +2,8 @@
 # Team name - Code Elite
 **Workflow Figma Design:** 
 
+**Screenshots of the Screens designed for the Skill Navigation Platform are uploaded in the above Workflow Screen folder kindly check it.**
+
 ****Desktop View**:** 
 
 https://www.figma.com/proto/4RvMEGYzNGp2HscTwu0EyH/Skill-navigator?node-id=10-93&node-type=FRAME&t=DBadJW6Y6pMeMk35-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=10%3A93&show-proto-sidebar=1
