@@ -64,13 +64,13 @@ The system will also enable tracking of course completion, evaluation scores, fe
    - How It Works: The platform provides dashboards that show progress in skill acquisition, completion of learning paths, and achievement of milestones, offering feedback and encouragement to keep users motivated.
 
 **9. Analysis:**
-    - Performance trends of the student in each student is calculated
-    - Feedback is collected after the assessment
-    - Comparison is done between the other students in the batch 
+- Performance trends of the student in each student is calculated
+- Feedback is collected after the assessment
+- Comparison is done between the other students in the batch 
  
 **10. Leaderboard:**
-    - Ranking is provided based on the analysis of the each student
-    - Top performer of each batch can be identified 
+- Ranking is provided based on the analysis of the each student
+- Top performer of each batch can be identified 
 
 ****Benefits for Users:****
 
