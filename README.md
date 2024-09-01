@@ -43,32 +43,32 @@ The system will also enable tracking of course completion, evaluation scores, fe
 3. **Workflow Design:**
    - Created a workflow for both desktop and mobile view
 
-4. **Skill Assessment & Mapping:**
+5. **Skill Assessment & Mapping:**
    - Overview: Users can assess their current skill levels through self-assessments or tests provided by the platform.
    - How It Works: After completion of the course a final assessment will be conducted which will be baseed on the AI proctoring mode 
 
-5. **Personalized Learning Paths:**
+7. **Personalized Learning Paths:**
    - Overview: The platform offers customized learning paths based on the user’s skill assessment.
    - How It Works: Users receive recommendations for courses, tutorials, and other learning resources that are tailored to their current skill level and career aspirations.
 
-6. **Career Path Exploration:**
+9. **Career Path Exploration:**
    - Overview: Users can explore different career paths within the platform, understanding the skills required for each.
    - How It Works: The platform presents various career options, detailing the necessary skills, typical job roles, and potential salary ranges, helping users make informed decisions about their career trajectory.
 
-7. **Skill Gap Analysis:**
+10. **Skill Gap Analysis:**
    - Overview: The platform identifies gaps between the user’s current skills and those required for their desired roles.
    - How It Works: By comparing the user’s skill profile against job requirements, the platform provides a clear action plan to bridge these gaps, including targeted learning resources and practice opportunities.
 
-8. **Progress Tracking & Feedback:**
+11. **Progress Tracking & Feedback:**
    - Overview: Users can track their skill development over time and receive feedback.
    - How It Works: The platform provides dashboards that show progress in skill acquisition, completion of learning paths, and achievement of milestones, offering feedback and encouragement to keep users motivated.
 
-9. **Analysis:**
+11. **Analysis:**
     - Performance trends of the student in each student is calculated
     - Feedback is collected after the assessment
     - Comparison is done between the other students in the batch 
 
-10. **Leaderboard:**
+12. **Leaderboard:**
     - Ranking is provided based on the analysis of the each student
     - Top performer of each batch can be identified 
 
