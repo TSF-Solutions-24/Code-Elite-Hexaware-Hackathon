@@ -17,7 +17,7 @@ The system will also enable tracking of course completion, evaluation scores, fe
 
 ****Key Functionalities:****
 
-1. Data Collection:
+**1. Data Collection:**
    - Name
    - Email ID
    - Degree
