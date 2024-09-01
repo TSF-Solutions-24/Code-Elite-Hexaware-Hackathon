@@ -11,6 +11,7 @@ https://www.figma.com/proto/4RvMEGYzNGp2HscTwu0EyH/Skill-navigator?node-id=10-93
 https://www.figma.com/proto/4RvMEGYzNGp2HscTwu0EyH/Skill-navigator?node-id=175-6&node-type=FRAME&t=01Mlwi8a8Ah7Tj5c-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=175%3A6&show-proto-sidebar=1
 
 **Introduction:**
+
 A Skill Navigation Platform is an innovative tool designed to help professionals and learners identify, develop, and track their skills. It serves as a personalized guide, allowing users to explore career paths, assess their competencies, and gain access to resources that support continuous learning.
 
 **Key Functionalities:**
@@ -50,12 +51,12 @@ How It Works: The platform fosters a community environment where users can join 
 Overview: Users can earn certifications and badges to validate their skills.
 How It Works: Upon completing certain courses or assessments, users receive digital certifications or badges, which can be shared on social media or added to resumes and professional profiles.
 
-**Benefits for Users**
+**Benefits for Users:**
 
 Empowerment: Users gain control over their learning and career development, with clear guidance on how to advance.
 Efficiency: The platform streamlines the process of skill development, offering targeted resources and eliminating guesswork.
 Credibility: Certifications and badges provide tangible proof of skills, enhancing users’ credibility in the job market.
 
-**Conclusion**
+**Conclusion:**
 
 A Skill Navigation Platform is an essential tool for anyone looking to advance in their career or learn new skills. It offers a structured and personalized approach to skill development, ensuring that users are always moving forward in their professional journey.
