@@ -6,7 +6,9 @@ const app = express();
 const multer = require('multer');
 app.use(cors());
 app.use(bodyParser.json());
-
+app.use('/',(req,res)=>{
+    res.send("Server is Running Successfully...")
+})
 const storage = multer.diskStorage({
     destination: function (req, file, cb) {
         cb(null, 'uploads/');
